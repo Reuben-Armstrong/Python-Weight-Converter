@@ -22,7 +22,7 @@ Perfect for students learning Python, math, or preparing for GCSE Computer Scien
 2. Clone or download the script file.
 3. Open your terminal or IDE and run:
 
-   python weight_converter.py
+   python main.py
 
 ---
 
